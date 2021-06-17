@@ -18,7 +18,7 @@ html,body{
 }
 
 .header{
-    background: url("/black.jpg"), black;
+    background: url("https://aerofact.github.io/Joshi-Intelligence/black.jpg"), black;
     padding: 6px 24px;
     text-align: left;
     color: white;
